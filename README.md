@@ -1,6 +1,5 @@
-# Readme
+# Read-me
 
-## My website
-### athmargaritis.github.io
+## My website - athmargaritis.github.io
 
 Testing how to make my own website
